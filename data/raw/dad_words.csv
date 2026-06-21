@@ -1,0 +1,60 @@
+﻿id,language,country,country_code,lang,word,pronunciation,language_tag
+1,English,United Kingdom,GB,en,dad,dad,0
+2,Spanish,Spain,ES,es,papa,pah-PAH,0
+3,French,France,FR,fr,papa,pah-PAH,0
+4,German,Germany,DE,de,Papa,PAH-pah,0
+5,Italian,Italy,IT,it,papa,PAH-pah,0
+6,Portuguese,Brazil,BR,pt-br,pai,pie,0
+7,Japanese,Japan,JP,ja,お父さん,otousan,0
+8,Korean,South Korea,KR,ko,아빠,appa,0
+9,Russian,Russia,RU,ru,папа,papa,0
+10,Hindi,India,IN,hi,पापा,papa,0
+11,Turkish,Turkey,TR,tr,baba,BAH-bah,0
+12,Swahili,Kenya,KE,sw,baba,BAH-bah,0
+13,Dutch,Netherlands,NL,nl,papa,PAH-pah,0
+14,Punjabi,India,PA,pa,ਪਾਪਾ,papa,1
+15,Telugu,India,TE,te,నాన్న,nanna,1
+16,Marathi,India,MR,mr,बाबा,baba,1
+17,Tamil,India,IN-TN,ta,அப்பா,appa,0
+18,Vietnamese,Vietnam,VN,vi,bố,bo,0
+19,Indonesian,Indonesia,ID,id,papa,PAH-pah,0
+20,Gujarati,India,GU,gu,પપ્પા,pappa,1
+21,Polish,Poland,PL,pl,tata,TAH-tah,0
+22,Ukrainian,Ukraine,UA,uk,тато,tato,0
+23,Romanian,Romania,RO,ro,tata,TAH-tah,0
+24,Malay,Malaysia,MY,ms,papa,PAH-pah,0
+25,Thai,Thailand,TH,th,พ่อ,pho,0
+26,Kannada,India,KN,kn,ಅಪ್ಪ,appa,1
+27,Malayalam,India,ML,ml,അപ്പാ,appa,1
+28,Serbian,Serbia,RS,sr,tata,TAH-tah,0
+29,Croatian,Croatia,HR,hr,tata,TAH-tah,0
+30,Czech,Czechia,CZ,cs,tata,TAH-tah,0
+31,Slovak,Slovakia,SK,sk,tato,TAH-toh,0
+32,Hungarian,Hungary,HU,hu,apu,AH-poo,0
+33,Greek,Greece,GR,el,μπαμπάς,babas,0
+34,Hebrew,Israel,IL,he,אבא,aba,0
+35,Amharic,Ethiopia,ET,am,አባ,aba,0
+36,Finnish,Finland,FI,fi,isi,EE-see,0
+37,Swedish,Sweden,SE,sv,pappa,PAP-pah,0
+38,Danish,Denmark,DK,da,far,FAHR,0
+39,Icelandic,Iceland,IS,is,pabbi,PAP-pi,0
+40,Catalan,Spain,ES,ca,papa,PAH-pah,0
+41,Basque,Spain,ES-PV,eu,aita,EYE-tah,0
+42,Bulgarian,Bulgaria,BG,bg,татко,tatko,0
+43,Lithuanian,Lithuania,LT,lt,tėtis,TEH-tis,0
+44,Latvian,Latvia,LV,lv,tētis,TEH-tis,0
+45,Estonian,Estonia,EE,et,isa,EE-sah,0
+46,Slovenian,Slovenia,SI,sl,ati,AH-tee,0
+47,Sardinian,Italy,IT,it,babbu,BAHB-boo,0
+48,Afrikaans,South Africa,ZA,af-za,pa,pa,0
+49,Arabic,United Arab Emirates,AE,ar-ae,بابا,بابا,0
+50,Bengali,India,BN,bn-in,বাবা,বাবা,1
+51,Mandarin Chinese,China,CN,cmn-cn,爸爸,爸爸,0
+52,English,United States,US,en-us,dad,dad,0
+53,Filipino,Philippines,PH,fil-ph,tatay,tatay,0
+54,French,Canada,CA,fr-ca,papa,papa,0
+55,Norwegian Bokmal,Norway,NO,nb-no,pappa,pappa,0
+56,Dutch,Belgium,BE,nl-be,papa,papa,0
+57,Portuguese,Portugal,PT,pt-pt,pai,pai,0
+58,Urdu,India,UR,ur-in,ابو,ابو,1
+59,Cantonese,Hong Kong,HK,yue-hk,爸爸,爸爸,0

@@ -1,0 +1,6 @@
+input:
+  nodes_csv: data/raw/nodes.csv
+  links_csv: data/raw/links.csv
+output:
+  processed_graph: data/processed/graph.json
+  public_graph: public/data/graph.json

@@ -1,0 +1,9 @@
+google-cloud-texttospeech
+python-dotenv
+numpy
+scipy
+librosa
+scikit-learn
+umap-learn
+torch
+torchaudio
