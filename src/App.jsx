@@ -466,6 +466,8 @@ export default function App() {
           />
         </div>
       </section>
+
+      <div className="designed-by">designed by Qichun</div>
     </div>
   );
 }

@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   // For project pages, serve assets under /<repo>/ in production.
-  base: process.env.NODE_ENV === "production" ? "/fathers_day/" : "/",
+  base:  "./",
   plugins: [react()],
   build: {
     outDir: "docs",
