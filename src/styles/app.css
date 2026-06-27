@@ -460,7 +460,7 @@ body {
   right: 1.2rem;
   font-family: "Dekko", cursive;
   font-size: 1rem;
-  color: var(--cerulean);
+  color: rgba(69, 123, 157, 0.85);
   z-index: 4;
   pointer-events: none;
 }
